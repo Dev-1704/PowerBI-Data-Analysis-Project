@@ -46,14 +46,14 @@ This Power BI Dashboard provides a detailed visual analysis of Super Store Sales
 ## Power BI Dashboard
 <img width="1278" height="717" alt="Screenshot 2025-07-24 130614" src="https://github.com/user-attachments/assets/a1ade460-db82-4c02-9861-5b9131d690fa" />
 
-##📊 Key Insights from the Dashboard
+## 📊 Key Insights from the Dashboard
 
-- 1. Overall Sales & Profit
+  1. Overall Sales & Profit
 - Total Sales: 1.6M
 - Net Profit: 175.3K
 - Profit margin is decent but shows variation across categories and sub-categories.
 
-2. Category Performance
+  2. Category Performance
 - Office Supplies leads with 0.64M sales.
 - Technology and Furniture contribute almost equally (~0.45M each).
 - However, Office Supplies might be high in sales but not necessarily the most profitable.
