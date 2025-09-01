@@ -48,43 +48,43 @@ This Power BI Dashboard provides a detailed visual analysis of Super Store Sales
 
 ## 📊 Key Insights from the Dashboard
 
-  1. Overall Sales & Profit
-- Total Sales: 1.6M
-- Net Profit: 175.3K
-- Profit margin is decent but shows variation across categories and sub-categories.
+1. Overall Sales & Profit
+  - Total Sales: 1.6M
+  - Net Profit: 175.3K
+  - Profit margin is decent but shows variation across categories and sub-categories.
 
-  2. Category Performance
-- Office Supplies leads with 0.64M sales.
-- Technology and Furniture contribute almost equally (~0.45M each).
-- However, Office Supplies might be high in sales but not necessarily the most profitable.
+2. Category Performance
+  - Office Supplies leads with 0.64M sales.
+  - Technology and Furniture contribute almost equally (~0.45M each).
+  - However, Office Supplies might be high in sales but not necessarily the most profitable.
 
 3. Sub-Category Insights
-- Phones dominate sub-category sales with 0.20M.
-- Chairs (0.18M) and Binders (0.17M) follow closely.
-- Some categories like Binders may have higher sales but lower profitability.
+  - Phones dominate sub-category sales with 0.20M.
+  - Chairs (0.18M) and Binders (0.17M) follow closely.
+  - Some categories like Binders may have higher sales but lower profitability.
 
 4. Shipping Mode
-- Standard Class is the most used (0.91M sales).
-- Same-Day Delivery has the least usage (0.10M), possibly due to higher costs.
+  - Standard Class is the most used (0.91M sales).
+  - Same-Day Delivery has the least usage (0.10M), possibly due to higher costs.
 
 5. Customer Segments
-- Consumer Segment is the largest contributor (48% of sales).
-- Corporate (32.55%) and Home Office (19.35%) follow.
-- Consumer-focused promotions may yield better results.
+  - Consumer Segment is the largest contributor (48% of sales).
+  - Corporate (32.55%) and Home Office (19.35%) follow.
+  - Consumer-focused promotions may yield better results.
 
 6. Payment Mode
-- Cash on Delivery (COD) is most popular (42.62%).
-- Online Payments (35.38%) and Cards (21.99%) are also significant.
-- COD preference may indicate trust issues or payment flexibility demands.
+  - Cash on Delivery (COD) is most popular (42.62%).
+  - Online Payments (35.38%) and Cards (21.99%) are also significant.
+  - COD preference may indicate trust issues or payment flexibility demands.
 
 7. Regional & State Performance
-- West Region dominates with 33.37% sales share.
-- East Region follows at 28.75%, while South lags at 16.1%.
-- Indicates strong regional imbalance → opportunity to expand in South.
+  - West Region dominates with 33.37% sales share.
+  - East Region follows at 28.75%, while South lags at 16.1%.
+  - Indicates strong regional imbalance → opportunity to expand in South.
 
 8. Year-over-Year Trends
-- Monthly Sales YoY: 2020 shows higher sales compared to 2019, especially in Q4.
-- Monthly Profit YoY: Fluctuations exist, but profits grew in the second half of 2020.
+  - Monthly Sales YoY: 2020 shows higher sales compared to 2019, especially in Q4.
+  - Monthly Profit YoY: Fluctuations exist, but profits grew in the second half of 2020.
 
 ## 🏁 Conclusion
 
