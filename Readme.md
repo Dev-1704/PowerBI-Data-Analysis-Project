@@ -8,6 +8,9 @@ This Power BI Dashboard provides a detailed visual analysis of Super Store Sales
 
 - <a href = "https://github.com/Dev-1704/PowerBI-Data-Analysis-Project/blob/main/SuperStore%20Sales%20DataSet.xlsx"> Dataset </a>
 
+## Dashboard Access
+- <a href = 'https://github.com/Dev-1704/PowerBI-Data-Analysis-Project/blob/main/Super%20Store%20Sales%20Dashboard.pbix'> Dashboard </a>
+
 ## 🚀Features of the Dashboard
 | Metric                | Insight                    |
 | --------------------- | -------------------------- |
