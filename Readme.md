@@ -48,7 +48,7 @@ This Power BI Dashboard provides a detailed visual analysis of Super Store Sales
 
 ##📊 Key Insights from the Dashboard
 
-1. Overall Sales & Profit
+- 1. Overall Sales & Profit
 - Total Sales: 1.6M
 - Net Profit: 175.3K
 - Profit margin is decent but shows variation across categories and sub-categories.
